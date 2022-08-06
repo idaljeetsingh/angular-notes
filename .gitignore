@@ -1,0 +1,15 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+
+
+### editors ###
+.idea
+.vscode
+
