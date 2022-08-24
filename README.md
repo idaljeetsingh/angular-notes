@@ -8,6 +8,7 @@ This repository contains my notes on Angular.
 - [Content Transformation](ContentTransformation.md)
 - [Imports](Imports.md)
 - [Services](Services.md)
+- [RxJS](RxJS/README.md)
 
 
 ## Author 
